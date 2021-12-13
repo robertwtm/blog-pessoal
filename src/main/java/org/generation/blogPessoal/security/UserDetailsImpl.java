@@ -1,11 +1,10 @@
-package org.generation.blogPessoal.seguranca;
+package org.generation.blogPessoal.security;
 
 import org.generation.blogPessoal.model.Usuario;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
 import java.util.Collection;
-import java.util.List;
 
 public class UserDetailsImpl implements UserDetails {
 

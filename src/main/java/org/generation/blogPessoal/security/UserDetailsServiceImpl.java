@@ -1,4 +1,4 @@
-package org.generation.blogPessoal.seguranca;
+package org.generation.blogPessoal.security;
 
 import org.generation.blogPessoal.model.Usuario;
 import org.generation.blogPessoal.repository.UsuarioRepository;
