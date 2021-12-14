@@ -24,15 +24,15 @@ public class Usuario {
     @Size(min =5, max = 100)
     private String senha;
 
-    public long getId() {
-        return id;
-    }
+    public Long getId() {
+		return id;
+	}
 
-    public void setId(long id) {
-        this.id = id;
-    }
+	public void setId(Long id) {
+		this.id = id;
+	}
 
-    public String getNome() {
+	public String getNome() {
         return nome;
     }
 
