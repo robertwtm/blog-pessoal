@@ -10,4 +10,6 @@ Atividades desenvolvida no bloco 2 para a construção de um blog
 
 [- Atividade CRUD Back-end blog-pessoal 2.](https://drive.google.com/file/d/1vvsc0t-EUZGEtPEwTwT9XZNkoo2uGWLp/view)
 
-[- Atividade Implementando testes com JUnit - Back end Blog Pessoal](https://drive.google.com/file/d/1-GwG4DMkfdVgPnnM12fKWt_bVlNrvw2Z/view)
+[- Atividade Implementando testes com JUnit - Back end Blog Pessoal.](https://drive.google.com/file/d/1-GwG4DMkfdVgPnnM12fKWt_bVlNrvw2Z/view)
+
+[- Atividade implementando as camadas de  segurança no Back-end de Blog Pessoal.](https://drive.google.com/file/d/1LK2-J8mKd0icYMJJizUjPbsW-uZmcMjd/view)
